@@ -12,4 +12,4 @@
 - I am learning Python and SQL.
 
 # Meme
-![meme]()
+![meme](https://petsplusmag.com/wp-content/uploads/2020/02/doing-a-bit-of-everything-photo-u1.jpg)
